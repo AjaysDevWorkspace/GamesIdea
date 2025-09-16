@@ -1,5 +1,5 @@
 # Game Title
-formula 1
+FORMULA THE SIMULATOR
 
 ## Concept
 iss game mai f1 cars ki race hogi 
