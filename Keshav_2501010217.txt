@@ -1,0 +1,26 @@
+# Game Title
+Subway Surfers
+
+## Concept
+Subway Surfers is a fun and fast game where you play as a kid running away from a police officer and his dog. You keep running on train tracks, avoiding trains and obstacles, while collecting coins and power-ups.
+
+## Gameplay
+The character runs automatically, and you control them by swiping left, right, up, or down. You need to jump on trains, jump over barriers, and slide under obstacles. The main goal is to run as far as possible, collect coins, and beat your high score.
+
+## Unique Features
+Simple and easy-to-learn controls.
+Fun power-ups like jetpacks, hoverboards, and magnets.
+Bright and colorful worlds that change often.
+Many characters and boards to unlock.
+
+## Target Audience
+This game is mainly for kids and teenagers who like quick, exciting games, but even adults can enjoy it for fun.
+
+## Art Style & Theme
+Colorful cartoon-style graphics with a lively city setting. The mood is fun, playful, and energetic.
+
+## Inspiration
+It takes ideas from endless running games but adds cool gadgets, characters, and world-travel themes to make it fresh.
+
+## Tools or Platforms (Optional)
+Made mainly for mobile phones (Android and iOS)
