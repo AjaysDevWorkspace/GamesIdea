@@ -1,0 +1,26 @@
+# Game Title
+MoveAround
+
+## Concept
+This is a multiplayer adventure game containing various maps and modes 
+A Mixture of fighting and adventure.
+
+## Gameplay
+-It will have different maps and different difficulty levels.
+-You have to move around and hide , u can be invisble or change ur appearance. 
+-You have to kill others or do tasks to qualify and enter the next round.
+
+## Unique Features
+-IT Has Booth fighting and adventure in it with a blend for all age group.
+-You can talk ,text and even make groups for your own friend circle.
+
+## Target Audience
+Anyone having interest for gaming, it isn't for just any age specific group
+
+## Art Style & Theme
+based on fighting,adventure,arcade and much more
+
+## Inspiration
+my previous games that I made and the games I played
+
+## Tools or Platforms (Optional)
