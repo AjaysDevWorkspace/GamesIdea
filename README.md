@@ -54,9 +54,9 @@ YourName_GameTitle.md
   <li><strong>Push your changes to your fork</strong><br>
     After saving your file, run:
     <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 1.1em;">
-git add ideas/YourName_GameTitle.md
+git add .
 git commit -m "Add game idea: Your Game Title"
-git push origin main
+git push
     </pre>
   </li>
 
