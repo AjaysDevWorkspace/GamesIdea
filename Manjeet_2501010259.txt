@@ -1,0 +1,24 @@
+## 📝 Game Idea Template
+
+# Game Title
+Harvest Horizons
+
+## Concept
+A cozy farming game where you grow crops, raise animals, and build your dream farm. It’s relaxing, creative, and all about enjoying farm life.
+
+## Gameplay
+Start with a small plot, plant seeds, care for animals, and sell your goods. Use the money to expand, decorate, and unlock new features.
+
+## Unique Features
+Seasons that change the farm, a market with shifting prices, farm customization, multiplayer farming, advanced agriculture veicles and fun festivals.
+
+## Target Audience
+For anyone (14+) who enjoys relaxing, creative, and feel-good games
+
+## Art Style & Theme
+Step into the heart of the countryside, where village life blossoms with peace and simplicity.
+
+## Inspiration
+Inspired by classics like *Farm simlation*, *Harvest Moon*, and *Animal Crossing*, blending farming, creativity, and community life.
+
+  
