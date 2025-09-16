@@ -1,0 +1,36 @@
+
+
+
+GAME TITLE:-   GHOST FIRE
+
+
+Key Features:
+
+
+Battle Royale Mode: Up to 50+ players dropped onto a large island map to loot up weapons and gear, fight, and be the last person or team standing.
+
+Multiple Game Modes: Besides the main battle royale, include modes like Team Deathmatch, Clash Squad (4v4 combat), Lone Wolf (1v1 or 2v2)
+
+Maps: Offer varied maps
+
+Character System: Unique characters with different active and passive skills
+
+Customization: Players can customize controls, sensitivity, and HUD layout.
+
+Ranked Matches: Competitive ranked modes to sort out serious players.
+
+Cross platform play: Available to play in different devices like mobile , pc etc.
+
+
+
+
+GAME SETTINGS:-
+
+
+Graphics and Performance: High, medium, low graphics quality settings with options to enable ultra or HD graphics and FPS modes for smooth gameplay.
+
+Sensitivity Controls: Customizable sensitivity for general movement, red dot, sniper scopes.
+
+In-Game Shop: Purchase weapons and items.
+
+Controls: Various button layouts with adjustable sizes and positions.
