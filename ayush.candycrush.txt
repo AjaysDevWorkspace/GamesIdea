@@ -1,0 +1,25 @@
+# Game Title
+candy crush
+
+## Concept
+iss game me bahut sare different color ke candy honge
+
+## Gameplay
+jisme 4 same candy milne se point milega and 6 candy milne se 
+bomb like isi trah ek board pe sare candy aayenge aur usme kuch task honge itna
+jisme task complete hone par level upgrae hoga.
+
+## Unique Features
+timepass type
+
+## Target Audience
+this is access for all people because it is very funny type.and my target will be 5m+
+
+## Art Style & Theme
+it is plesant not harming theme is different color.
+
+## Inspiration
+i love candy so much thats why i want to create
+
+## Tools or Platforms (Optional)
+tagetetd for mobile and ios app.
