@@ -1,0 +1,46 @@
+# Game Title
+
+Apex Anarchy
+
+## Concept
+
+it's a mix of combat and racing games, players will fight 
+while being inside the cars and on bikes using external
+guns, oil spills, bombs ejecting from top of the vehicles
+and if you win you gain a territory and if you get all the territory,
+you'll win. It will be a multiplayer game.
+
+
+## Gameplay
+
+to gain the control over the whole map
+
+## Unique Features
+
+it's not just a fighting game or a racing game it's a mix of all of it 
+also it's a multiplayer game so it is competetive and like a open world game.
+
+
+## Target Audience
+
+age group will be 12+ and interests include open world,
+combat and fighting games, also racing is included in the 
+interest
+
+
+## Art Style & Theme
+
+tone is going to be that the world is almost destroyed, 
+smoke all around and it's gonna be a night theme
+style will be like nova legacy, futurestic and modern.
+
+
+## Inspiration
+
+it is more like gta but it's not as complicated as gta to make
+as we have only one way to fight i.e. being in the vehicles always
+it's inspired from Gta, nova legacy and 
+
+## Tools or Platforms (Optional)
+
+(Do you imagine this being built in Unity, Unreal, web, mobile, etc.?)
