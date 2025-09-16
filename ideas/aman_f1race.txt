@@ -1,0 +1,26 @@
+# Game Title
+f1 race
+
+## Concept
+iss game mai f1 cars ki race hogi 
+
+## Gameplay
+game mai n number of lap complete krna padega aur bina crash ke aur 5 - 10 -15 player mai race hogi 
+aur ismai bech bech mai boost n kuch box miligi jismai super power hogi jisse tum agge wle ko slow kr skte ho 
+rok skte ho aur crash hua toh 50-100 m phele ake restart ho jayega 
+
+## Unique Features
+ye game mai f1 ke winners as a character rhege aur real engne sound with real winner emote rhega 
+aur original workshop wagera rhega jismai car repair hogi 
+
+## Target Audience
+this game for 7+ people target Audience cars lover and f1 lover and real simulator based game hogi
+
+## Art Style & Theme
+natural tone and theme on nature mostly track on forest desert and water or maybe in air 
+
+## Inspiration
+i love cars so isliye i decide to make this and iske jesa toh same game hai but realistic mai f1 ke liye koi game nhi hai
+
+## Tools or Platforms (Optional)
+targeted for pc and next gen console or in mobile cloud server 
