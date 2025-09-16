@@ -1,5 +1,5 @@
 # Game Title
-f1 race
+formula 1
 
 ## Concept
 iss game mai f1 cars ki race hogi 
