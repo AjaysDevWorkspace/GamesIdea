@@ -1,0 +1,23 @@
+# Game Title
+(Ghostophobia)
+
+## Concept
+(It is a horror game in which you need to identify the type of ghost. You'll use various ghost-hunting tools to find clues like spirit box, EMF reader, Thermometer, Video Camera, Dots Projector, Ghost Writing Book  )
+
+## Gameplay
+(From Van take all the ghost-hunting tools and then enter the location and use your tools to find the ghost's room. Look for evidence like freezing temperatures, ghost writing, or EMF. and try to find out the type of ghost. Each ghost type has a unique set of three pieces of evidence. Once you've collected all three, you can identify the ghost in your journal.Be careful, as your sanity drops, the ghost becomes more aggressive and will hunt you more. You must hide to survive and complete the mission)
+
+## Unique Features
+(investigation, teamwork, and intense horror)
+
+## Target Audience
+(This game is for teenagers and adults who enjoys playing haunted games. )
+
+## Art Style & Theme
+(dark theme and horror)
+
+## Inspiration
+(yaaa there is a similar game called Phasmophobia)
+
+## Tools or Platforms (Optional)
+(mobile phones, computers , gaming laptops )
