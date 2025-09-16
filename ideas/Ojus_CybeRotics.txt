@@ -1,0 +1,24 @@
+# Game Title
+Cyberotics
+
+## Concept
+An offline game .. in which a player will be in a maze type set up.. 
+and there you will have to survive the robots.. if you succeed to do so.. 
+you will be promoted to next level, otherwise you will have to do it again.
+
+
+## Gameplay
+It will be an offline.. with one robot for few levels.. and then the number will increase 
+accordingly.. it will be a survival based game
+
+## Unique Features
+We can make the robots appear randomly... making it more interesting
+
+## Target Audience
+Age group: 10-18
+
+## Art Style & Theme
+We will make with Red, Green, Blue as they are addictive colours
+
+## Inspiration
+My Imagination 
