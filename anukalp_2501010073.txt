@@ -1,0 +1,13 @@
+CHARIZARD-the game
+1. chrizard will fly on the straight three laned path.
+2. it can move either on any lane .
+3. there are different obstacles on the path and have to save him from those.
+4. after some duration different pokemon will appear and have to remove them with flamethrower as a attack.
+5. after certain distance team rocket will appear and have to fight with their pokemons with different moves as dragon clow, fire spin etc.
+6. as the level increases team rocket's pokemons gonna more powerfull.
+7. have to save our health and to mainting it , should collect the berries on the path.
+8. can also increase charizard's ability ,power, etc. through pokecoins can collecct during flying.
+9. if charizard touches any obstacle , game over.
+10. if hitted by any pokemon attack , game over.
+11. if defeated by team rocket , game over.
+12. according to highscores ,leaderboard ranking will be given.
