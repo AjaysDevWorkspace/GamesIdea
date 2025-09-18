@@ -1,0 +1,17 @@
+create a detective game where we play as a detective solving mysteries .
+the give will be story based where we can see the crime scenes, we can talk to victims and we have 
+choices to choose from. Each choice changes the flow of the story. upto this, this is a simple game.
+but to make it more interesting, we can add a feature where we can use our text based lines, which will
+futher opearated by ai , and ai will help the cast the story according to my line used in crime scenes.
+its my choice to set up a scene where i can change the story. its should be my choice where i can take bribe
+and help the culprits or to be loyal and run for justice. the game should be more interactive and more 
+customisable. there should be a feature where we can interact with past mystery game persons, where i can take
+help from , in terms of money, or any political power. There should be a money feature , where every  crime 
+solved will reward me some sort of money from govt, and beside the money should be added that is taken from bribe.  
+target audience is teens and adults who love mystery and detective stories.
+theme must be gore and wild
+i got inspired from sherlock holmes and other detective stories.
+this should be built on unreal for better graphics and more interactive.
+
+
+
